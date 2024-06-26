@@ -4,7 +4,7 @@
 
 HAYEKCOP is an ERC20 token, but its supply can be adjusted by contracting 
 and expanding it proportionally among holders according to market conditions, 
- so that the token price is worth 100 COP adjusted by the Colombian IPC.
+ so that the token price is worth 100 COP adjusted by the Colombian CPI.
 
  The token name is a combination of the last name of Austrian School economist
 Friedrich Hayek and the Colombian peso ticker COP, in honor of the deceased economist
