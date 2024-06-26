@@ -20,3 +20,10 @@ There is the beta version testnet deployment on Arbitrum Sepolia.
 
 * **ERC-20 Token:** [0x929F1Bed5171c03908C7e6bca4C022F586088059](https://sepolia.arbiscan.io/address/0x929f1bed5171c03908c7e6bca4c022f586088059)
 
+## Quickstart
+
+```
+git clone https://github.com/JMSBPP/HAYEKCOP-Stable-Coin-Unit-of-Account-100-COP-
+forge build
+```
+
