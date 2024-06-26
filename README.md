@@ -25,5 +25,6 @@ There is the beta version testnet deployment on Arbitrum Sepolia.
 ```
 git clone https://github.com/JMSBPP/HAYEKCOP-Stable-Coin-Unit-of-Account-100-COP-
 forge build
+forge test
 ```
 
